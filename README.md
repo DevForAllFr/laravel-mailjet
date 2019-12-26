@@ -10,6 +10,8 @@ Laravel package for handling Mailjet API v3 using this wrapper: <https://github.
 
 It also provides a mailjetTransport for [Laravel mail feature](https://laravel.com/docs/master/mail)
 
+UPDATE FOR LARAVEL 6.*
+
 ## Installation
 
 First, include the package in your dependencies:
